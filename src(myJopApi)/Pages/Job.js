@@ -3,8 +3,6 @@ import {
   SafeAreaView,
   Text,
   View,
-  Button,
-  Alert,
   ActivityIndicator,
 } from 'react-native';
 import Axios from 'axios';
